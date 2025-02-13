@@ -20,5 +20,4 @@ for course, link in courses.items():
 st.write("### 📢 Connect with us on Social Media")
 st.markdown("[📢 Join our Telegram](https://t.me/+XuIEiecTujMxODNl)")
 st.markdown("[ Follow us on Whatsapp](https://whatsapp.com/channel/0029Vb25egi7oQhbkaBNse2o)")
-st.markdown("[📷 Follow us on Instagram](https://www.instagram.com/mkraajltp1?utm_source=qr&igsh=MWxicHRkaWk2bnJmdA==
-)")
+st.markdown
