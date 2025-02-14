@@ -6,7 +6,7 @@ st.title("📚 Education Platform")
 st.write("Welcome to the Education Platform. Select a course below:")
 
 courses = {
-    "MAIN CHENNAL": "@mkraajltp_3bot",
+    "MAIN CHENNAL": "https://t.me/+XuIEiecTujMxODNl",
     "Railway science foundation": "https://t.me/+Ja5IJyCmnMVkM2Vl",
     "CGL +  CHSL + MTS MAINS": "https://t.me/+DumAzg8tD3I5NDc1",
     "Machine Learning Basics": "https://t.me/+Q3WIIs6Oo6NjNjVl",
