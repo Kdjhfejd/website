@@ -7,10 +7,11 @@ st.write("Welcome to the Education Platform. Select a course below:")
 
 courses = {
     "MAIN CHENNAL": "https://t.me/+XuIEiecTujMxODNl",
-    "Railway science foundation": "https://t.me/+Ja5IJyCmnMVkM2Vl",
-    "CGL +  CHSL + MTS MAINS": "https://t.me/+DumAzg8tD3I5NDc1",
-    "Machine Learning Basics": "https://t.me/+Q3WIIs6Oo6NjNjVl",
-    "Web Development": "https://t.me/+Q3WIIs6Oo6NjNjVl"
+    "SSC BANKING RAILWAY ": "https://t.me/+6rX0Xxg3FtBmYTE1",
+    "UPSC": "https://t.me/+vBpYFICH6HczY2M9",
+    "VIP MEMBERS ": "https://t.me/+qM06_7HP4PdkNzk1",
+    "INFINITE COURSES": "https://t.me/+PTnRqzn8PfczM2I1",
+    "NEW COURSES 2025": "https://t.me/+FMHvMLefobowZjRl"
 }
 st.image("home.jpg", caption="Welcome to the Education Platform", use_column_width=True)
 
