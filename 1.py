@@ -13,6 +13,7 @@ courses = {
     "INFINITE COURSES": "https://t.me/+PTnRqzn8PfczM2I1",
     "NEW COURSES 2025": "https://t.me/+FMHvMLefobowZjRl",
     "ENTERTAINMENT ": "https://t.me/+-2ca3mBA87w5YTll"
+
 }
 st.image("home.jpg", caption="Welcome to the Education Platform", use_column_width=True)
 
