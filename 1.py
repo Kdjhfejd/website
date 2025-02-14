@@ -11,7 +11,8 @@ courses = {
     "UPSC": "https://t.me/+vBpYFICH6HczY2M9",
     "VIP MEMBERS ": "https://t.me/+qM06_7HP4PdkNzk1",
     "INFINITE COURSES": "https://t.me/+PTnRqzn8PfczM2I1",
-    "NEW COURSES 2025": "https://t.me/+FMHvMLefobowZjRl"
+    "NEW COURSES 2025": "https://t.me/+FMHvMLefobowZjRl",
+    "ENTERTAINMENT ": "https://t.me/+-2ca3mBA87w5YTll"
 }
 st.image("home.jpg", caption="Welcome to the Education Platform", use_column_width=True)
 
