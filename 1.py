@@ -9,7 +9,7 @@ courses = {
     "Railway science foundation": "https://t.me/+Ja5IJyCmnMVkM2Vl",
     "CGL +  CHSL + MTS MAINS": "https://t.me/+DumAzg8tD3I5NDc1",
     "Machine Learning Basics": "https://t.me/+Q3WIIs6Oo6NjNjVl",
-    "Web Development": "https://example.com/webdev"
+    "Web Development": "https://t.me/+Q3WIIs6Oo6NjNjVl"
 }
 st.image("home.jpg", caption="Welcome to the Education Platform", use_column_width=True)
 
