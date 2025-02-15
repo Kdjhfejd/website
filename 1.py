@@ -15,7 +15,8 @@ courses = {
     "ENTERTAINMENT": "https://t.me/+-2ca3mBA87w5YTll",
     "SKILL DEVELOPMENT": "https://t.me/+T_XBkV5xs3g3MjZl",
     "MEDICAL COURSES":"https://t.me/+60rJJcg7bcFlODRl",
-    "PDF HUB":"https://t.me/+rwOUjyOC5ZxjMmRl"
+    "PDF HUB":"https://t.me/+rwOUjyOC5ZxjMmRl",
+    "HACKING RECOURSES":"https://t.me/+6QVRmkwFDrRiOGNl"
 }
 
 st.image("home.jpg", caption="Welcome to the Education Platform", use_column_width=True)
@@ -26,4 +27,10 @@ for course, link in courses.items():
 st.write("### 📢 Connect with us on Social Media")
 st.markdown("[📢 Join our Telegram](https://t.me/+XuIEiecTujMxODNl)")
 st.markdown("[💬 Follow us on Whatsapp](https://whatsapp.com/channel/0029Vb25egi7oQhbkaBNse2o)")
-st.markdown("[Follow us on Instagram](https://www.instagram.com/mkraajltp?igsh=MXRvMHZ3Zzg4ZHhwbw%3D%3D)")
+st.markdown("[📷 Follow us on Instagram](https://www.instagram.com/mkraajltp?igsh=MXRvMHZ3Zzg4ZHhwbw%3D%3D)")
+
+
+
+
+
+
