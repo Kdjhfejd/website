@@ -16,6 +16,8 @@ courses = {
     "SKILL DEVELOPMENT": "https://t.me/+T_XBkV5xs3g3MjZl",
     "MEDICAL COURSES":"https://t.me/+60rJJcg7bcFlODRl",
     "PDF HUB":"https://t.me/+rwOUjyOC5ZxjMmRl",
+    "UDEMY FREE COURSES":"https://t.me/+MEBmwvJ2XGUyYjA1",
+    "IMPORTANT APPS":"https://t.me/+X8tQbphs3Do1OTQ1",
     "HACKING RECOURSES":"https://t.me/+6QVRmkwFDrRiOGNl"
 }
 
