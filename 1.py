@@ -14,6 +14,7 @@ st.markdown("<div style='text-align: center;'><button onclick='window.location.r
 
 # Sidebar Navigation
 st.sidebar.title("📌 Navigation")
+st.sidebar.write("<----------------------------- Click the arrow to shuffle to other pages", unsafe_allow_html=True)
 page = st.sidebar.radio("Go to", ["Courses", "Home", "Feedback & Suggestions"])
 
 def courses_page():
