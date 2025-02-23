@@ -10,7 +10,7 @@ if "dark_mode" not in st.session_state:
 def toggle_dark_mode():
     st.session_state.dark_mode = not st.session_state.dark_mode
 
-st.sidebar.button("🌙 Toggle Dark Mode", on_click=toggle_dark_mode)
+st.markdown("<div style='text-align: center;'><button onclick='window.location.reload()' style='font-size:20px; padding:10px 20px; border-radius:10px;'>🌙 Toggle Dark Mode</button></div>", unsafe_allow_html=True)
 
 # Sidebar Navigation
 st.sidebar.title("📌 Navigation")
