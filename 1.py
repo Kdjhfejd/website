@@ -59,36 +59,16 @@ def courses_page():
     else:
         st.write("❌ No courses found. Try a different keyword.")
     
-    # Allow users to send a course
+    # Google Form for Adding a New Course
     st.write("### ➕ Add a New Course")
-    course_name = st.text_input("Course Name")
-    course_link = st.text_input("Course Link")
-    if st.button("Submit Course"):
-        if course_name and course_link:
-            with open("courses.txt", "a") as f:
-                f.write(f"{course_name}: {course_link}\n")
-            st.success("✅ Course submitted successfully!")
-        else:
-            st.warning("⚠️ Please fill both fields.")
+    st.markdown("[📌 Submit a Course Here](https://forms.gle/CZtyg1CeXA39DTcW9) 🔗 (opens in a new tab)", unsafe_allow_html=True)
 
 def feedback_page():
     st.title("💬 Feedback & Suggestions")
     
-    # Feedback Form
-    st.write("We appreciate your feedback! Please let us know your thoughts before you leave.")
-    feedback = st.text_area("📝 Your Feedback")
-    if st.button("Submit Feedback"):
-        with open("feedback.txt", "a") as f:
-            f.write(f"Feedback: {feedback}\n")
-        st.success("✅ Thank you for your feedback! It has been saved.")
-    
-    # Suggestion Box
-    st.write("### ✨ Have a Suggestion?")
-    suggestion = st.text_area("💡 Drop your suggestions here!")
-    if st.button("Send Suggestion"):
-        with open("feedback.txt", "a") as f:
-            f.write(f"Suggestion: {suggestion}\n")
-        st.success("🚀 Suggestion sent successfully! It has been saved.")
+    # Google Form for Feedback
+    st.write("We appreciate your feedback! Please share your thoughts below.")
+    st.markdown("[📝 Submit Feedback Here](https://forms.gle/CZtyg1CeXA39DTcW9) 🔗 (opens in a new tab)", unsafe_allow_html=True)
 
 # Display selected page
 if page == "Home":
