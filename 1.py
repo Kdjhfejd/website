@@ -14,18 +14,7 @@ st.sidebar.button("🌙 Toggle Dark Mode", on_click=toggle_dark_mode)
 
 # Sidebar Navigation
 st.sidebar.title("📌 Navigation")
-page = st.sidebar.radio("Go to", ["Home", "Courses", "Feedback & Suggestions"])
-
-def home_page():
-    st.title("📚 Education Platform")
-    st.image("home.jpg", caption="Welcome to the Education Platform", use_column_width=True)
-    st.write("Explore our wide range of courses and connect with us on social media.")
-    
-    # Social Media Links
-    st.write("### 📢 Connect with us on Social Media")
-    st.markdown("[📢 Join our Telegram](https://t.me/+XuIEiecTujMxODNl)")
-    st.markdown("[💬 Follow us on WhatsApp](https://whatsapp.com/channel/0029Vb25egi7oQhbkaBNse2o)")
-    st.markdown("[📷 Follow us on Instagram](https://www.instagram.com/mkraajltp?igsh=MXRvMHZ3Zzg4ZHhwbw%3D%3D)")
+page = st.sidebar.radio("Go to", ["Courses", "Home", "Feedback & Suggestions"])
 
 def courses_page():
     st.title("🎓 Explore Our Courses")
@@ -63,6 +52,17 @@ def courses_page():
     st.write("### ➕ Add a New Course")
     st.markdown("[📌 Submit a Course Here](https://forms.gle/CZtyg1CeXA39DTcW9) 🔗 (opens in a new tab)", unsafe_allow_html=True)
 
+def home_page():
+    st.title("📚 Education Platform")
+    st.image("home.jpg", caption="Welcome to the Education Platform", use_column_width=True)
+    st.write("Explore our wide range of courses and connect with us on social media.")
+    
+    # Social Media Links
+    st.write("### 📢 Connect with us on Social Media")
+    st.markdown("[📢 Join our Telegram](https://t.me/+XuIEiecTujMxODNl)")
+    st.markdown("[💬 Follow us on WhatsApp](https://whatsapp.com/channel/0029Vb25egi7oQhbkaBNse2o)")
+    st.markdown("[📷 Follow us on Instagram](https://www.instagram.com/mkraajltp?igsh=MXRvMHZ3Zzg4ZHhwbw%3D%3D)")
+
 def feedback_page():
     st.title("💬 Feedback & Suggestions")
     
@@ -71,9 +71,9 @@ def feedback_page():
     st.markdown("[📝 Submit Feedback Here](https://forms.gle/CZtyg1CeXA39DTcW9) 🔗 (opens in a new tab)", unsafe_allow_html=True)
 
 # Display selected page
-if page == "Home":
-    home_page()
-elif page == "Courses":
+if page == "Courses":
     courses_page()
+elif page == "Home":
+    home_page()
 elif page == "Feedback & Suggestions":
     feedback_page()
