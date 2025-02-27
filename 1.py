@@ -34,6 +34,7 @@ def courses_page():
         "INFINITE COURSES": ("https://t.me/+PTnRqzn8PfczM2I1", "Development"),
         "NEW COURSES 2025": ("https://t.me/+FMHvMLefobowZjRl", "Development"),
         "SKILL DEVELOPMENT": ("https://t.me/+T_XBkV5xs3g3MjZl", "Development"),
+        "FREE UDEMY COURSES": ("https://t.me/+MEBmwvJ2XGUyYjA1", "INTERNATIONAL"),
         "MEDICAL COURSES": ("https://t.me/+60rJJcg7bcFlODRl", "Medical"),
         "ENTERTAINMENT": ("https://t.me/+-2ca3mBA87w5YTll", "Entertainment"),
         "HACKING RESOURCES": ("https://t.me/+6QVRmkwFDrRiOGNl", "Hacking"),
