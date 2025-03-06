@@ -38,7 +38,8 @@ def courses_page():
         "FREE UDEMY COURSES": ("https://t.me/+MEBmwvJ2XGUyYjA1", "INTERNATIONAL"),
         "MEDICAL COURSES": ("https://t.me/+60rJJcg7bcFlODRl", "Medical"),
         "ENTERTAINMENT": ("https://t.me/+-2ca3mBA87w5YTll", "Entertainment"),
-        "HACKING RESOURCES": ("https://t.me/+6QVRmkwFDrRiOGNl", "Hacking"),
+        "PLACEMENT COURSES": ("https://t.me/+WVYzQmXTkWZkMDk1","STUDY"),
+        "HACKING RESOURCES": ("https://t.me/+6QVRmkwFDrRiOGNl", "Hacking")
     }
     
     # Filter Courses
