@@ -31,7 +31,7 @@ def courses_page():
         "MAIN CHENNAL": ("https://t.me/+XuIEiecTujMxODNl", "General"),
         "SSC BANKING RAILWAY": ("https://t.me/+6rX0Xxg3FtBmYTE1", "Competitive Exams"),
         "UPSC": ("https://t.me/+vBpYFICH6HczY2M9", "Competitive Exams"),
-        "INFINITE COURSES": ("https://t.me/+PTnRqzn8PfczM2I1", "Development"),
+        "INFINITE COURSES": ("https://t.me/+Z73HGBLxPu0wZTM1", "Development"),
         "NEW COURSES 2025": ("https://t.me/+FMHvMLefobowZjRl", "Development"),
         "SKILL DEVELOPMENT": ("https://t.me/+T_XBkV5xs3g3MjZl", "Development"),
         "VIP MEMBERS GROUP": ("https://t.me/+qM06_7HP4PdkNzk1", "GROWTH "),
