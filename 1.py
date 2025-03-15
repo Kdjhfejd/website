@@ -28,7 +28,7 @@ def courses_page():
     selected_category = st.selectbox("📂 Select Category", categories)
     
     courses = {
-        "MAIN CHENNAL": ("https://t.me/+XuIEiecTujMxODNl", "General"),
+        "MAIN CHENNAL": ("https://whatsapp.com/channel/0029Vb25egi7oQhbkaBNse2o", "General"),
         "SSC BANKING RAILWAY": ("https://t.me/+6rX0Xxg3FtBmYTE1", "Competitive Exams"),
         "UPSC": ("https://t.me/+vBpYFICH6HczY2M9", "Competitive Exams"),
         "INFINITE COURSES": ("https://t.me/+Z73HGBLxPu0wZTM1", "Development"),
