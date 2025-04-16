@@ -29,7 +29,7 @@ def courses_page():
     
     courses = {
         "MAIN CHENNAL": ("https://whatsapp.com/channel/0029Vb25egi7oQhbkaBNse2o", "MAIN CHENNAL"),
-        "SSC BANKING RAILWAY": ("https://t.me/+6rX0Xxg3FtBmYTE1", "Competitive Exams"),
+        "SSC BANKING RAILWAY": ("https://t.me/+SFhX9N50Dag0ZWVl", "Competitive Exams"),
         "UPSC": ("https://t.me/+vBpYFICH6HczY2M9", "Competitive Exams"),
         "INFINITE COURSES": ("https://t.me/+Z73HGBLxPu0wZTM1", "Development"),
         "NEW COURSES 2025": ("https://t.me/+FMHvMLefobowZjRl", "Development"),
